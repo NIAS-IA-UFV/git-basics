@@ -5,6 +5,7 @@ Repo para colocar a mão na massa e praticar os fundamentos em Git e Github.
 - Rodolpho esteve aqui outra vez
 - Pablo marcou presença
 - Vitória esteve aqui
+- Vitória aqui mais uma vez
 Isso foi criado em uma outra branch
 
 - Só pra confirmar que eu estive mesmo (Rodolpho)
