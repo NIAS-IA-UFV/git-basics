@@ -1,4 +1,5 @@
 # git-basics
+
 Repo para colocar a mão na massa e praticar os fundamentos em Git e Github.
 
 - Alexandre esteve aqui
@@ -6,6 +7,7 @@ Repo para colocar a mão na massa e praticar os fundamentos em Git e Github.
 - Pablo marcou presença
 - Vitória esteve aqui
 - Vitória aqui 
+Boa tarde, torugo aqui
 Isso foi criado em uma outra branch
 
 - Só pra confirmar que eu estive mesmo (Rodolpho)
