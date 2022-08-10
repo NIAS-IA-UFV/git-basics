@@ -6,3 +6,5 @@ Repo para colocar a mão na massa e praticar os fundamentos em Git e Github.
 - Pablo marcou presença
 
 Isso foi criado em uma outra branch
+
+- Só pra confirmar que eu estive mesmo (Rodolpho)
